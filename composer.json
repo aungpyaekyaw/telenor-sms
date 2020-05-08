@@ -1,6 +1,6 @@
 {
-    "name": "solvecase/telenorbulksms",
-    "description": "This package makes it easy to send sms notification using Telenor Myanmar Business SMS service with laravel.",
+    "name": "aungpyaekyaw/telenorsms",
+    "description": "Test package for SolveCase.",
     "license": "MIT",
     "authors": [
         {
